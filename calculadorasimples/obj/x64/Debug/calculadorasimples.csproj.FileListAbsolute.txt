@@ -1,0 +1,10 @@
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.exe.config
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.exe
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.pdb
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.AssemblyReference.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.frmCalculadoraSimples.resources
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.Properties.Resources.resources
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.GenerateResource.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.exe
+C:\Users\gustavo.rssilva3\source\programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.pdb

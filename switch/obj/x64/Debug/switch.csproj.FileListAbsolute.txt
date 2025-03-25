@@ -1,0 +1,10 @@
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\bin\x64\Debug\@switch.exe.config
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\bin\x64\Debug\@switch.exe
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\bin\x64\Debug\@switch.pdb
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\obj\x64\Debug\switch.csproj.AssemblyReference.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\obj\x64\Debug\switch.frmCondicional.resources
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\obj\x64\Debug\switch.Properties.Resources.resources
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\obj\x64\Debug\switch.csproj.GenerateResource.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\obj\x64\Debug\switch.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\obj\x64\Debug\@switch.exe
+C:\Users\gustavo.rssilva3\source\programadordesistemas\switch\obj\x64\Debug\@switch.pdb

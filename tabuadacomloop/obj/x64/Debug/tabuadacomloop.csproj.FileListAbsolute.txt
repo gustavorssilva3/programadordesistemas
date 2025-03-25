@@ -1,0 +1,10 @@
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.exe.config
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.exe
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.pdb
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.AssemblyReference.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.frmTabuadaLoop.resources
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.Properties.Resources.resources
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.GenerateResource.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.exe
+C:\Users\gustavo.rssilva3\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.pdb
